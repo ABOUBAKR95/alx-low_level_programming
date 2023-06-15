@@ -1,7 +1,9 @@
 #include <stdio.h>
-/*
- * main - A programme that prints a line with puts function
- * Returne: Alwys 0 (successe)
+/**
+ *
+ *main - A programme that prints a line with puts function
+ *
+ *Returne: Alwys 0 (successe)
  */
  int main(void)
 {
