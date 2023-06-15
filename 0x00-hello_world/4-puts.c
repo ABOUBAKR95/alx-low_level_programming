@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- *
- * main - A programme that prints a line with puts function
+ * main - Entry point
  *
  * Returne: Alwys 0 (successe)
  */
