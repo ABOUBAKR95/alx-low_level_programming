@@ -4,7 +4,7 @@
  *
  * Description: a programme that print a line
  *
- * Returne: 0 (Success)
+ * Returne: Always 0 (Success)
  */
 int main(void)
 {
